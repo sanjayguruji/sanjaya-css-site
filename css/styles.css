@@ -1,0 +1,148 @@
+body{
+    color: #40514e;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1{
+    color: #59C1BD;
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive; 
+    font-size: 5.625rem ;   
+}
+
+.second-headline {
+    color: #59C1BD;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h2 {
+    color: #59C1BD;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    color: #59C1BD;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.profile-pic {
+    height: 160px;
+    width: 160px;
+}
+
+.main-para{
+    line-height: 2;
+    width: 50%;
+    margin: auto;
+}
+
+.top-container{
+    background-color: #CFF5E7;
+    margin-bottom: 0px;
+    padding: 100px;
+    padding-bottom: 0;
+}
+
+.middle-container {
+    margin: 100px 0 0;
+}
+
+.bottom-container {
+    background-color: #59C1BD;
+    padding: 40px 0 20px ;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-row-1-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row-2-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row-3-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.btn {
+    background-color: #59C1BD;
+    border: none;
+    color: white;
+    padding: 10px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 6px 4px;        
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.btn:hover {
+    background-color: #CFF5E7;
+    color: #0D4C92;
+}
+
+.footer-link-t {
+    font-size: 40px;
+    margin: 10px 20px;
+    padding-top: 10px;
+    color: white;
+}
+
+.footer-link-t:hover {
+    color: #00acee;
+}
+
+.footer-link-l {
+    font-size: 40px;
+    margin: 10px 20px;
+    padding-top: 10px;
+    color: white;
+}
+
+.footer-link-l:hover {
+    color: #0A66C2;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 100px;
+}
+
+.copyright {
+    color: #f5fcff;
+    margin: 0px;
+    padding: 20px 0 20px;
+}
